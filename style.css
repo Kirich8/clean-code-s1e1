@@ -16,7 +16,7 @@ body {
   width: 100%;
 }
 
-.header .more-info {
+.header__info {
   font-family: fantasy, cursive;
 }
 
@@ -41,7 +41,7 @@ body {
   flex-grow: 1;
 }
 
-.adding-content {
+.adding__content {
   display: flex;
 }
 
