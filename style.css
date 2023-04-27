@@ -41,7 +41,7 @@
   flex-grow: 1;
 }
 
-.adding__content {
+.add__content {
   display: flex;
 }
 
@@ -82,9 +82,9 @@
 }
 
 /* Heading */
-.adding__title,
+.add__title,
 .todo__title,
-.adding__label {
+.add__label {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -112,12 +112,12 @@
 }
 
 /* New Task */
-.adding__label {
+.add__label {
   display: block;
   margin: 0 0 20px;
 }
 
-.adding__enter {
+.add__enter {
   width: 318px;
 }
 
